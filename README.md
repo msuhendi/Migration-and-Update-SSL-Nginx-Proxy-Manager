@@ -29,6 +29,7 @@ instance lain, lalu memasang sertifikat SSL pada domain yang dipilih.
 | `tests/test_npm_migration.py` | Test unit untuk perilaku penting tanpa koneksi jaringan. |
 | `.env.example` | Template konfigurasi; salin menjadi `.env` atau export manual. |
 | `req.txt` | Dependensi runtime Python. |
+| `LICENSE` | Lisensi MIT project. |
 
 ## Prasyarat
 
@@ -261,5 +262,5 @@ resource NPM bersifat version-dependent. Untuk operasi besar:
 
 ## Lisensi
 
-Belum ada file lisensi pada project ini. Tambahkan lisensi sebelum project
-dibagikan sebagai project publik.
+Project ini dirilis di bawah [MIT License](LICENSE). Copyright (c) 2026
+msuhendi.
